@@ -142,7 +142,7 @@ const product = [
 
 console.log(getAllPropValues(product, 'name'));
 console.log(getAllPropValues(product, 'num '));
-console.log(getAllPropValues(product, 'category'));
+console.log(getAllPropValues(product, 'categoryes'));
 
 
 
